@@ -1,5 +1,5 @@
-#MyNoteApp-JS
+MyNoteApp-JS
 
 https://vorayash.github.io/MyNoteApp-JS/
 
-localhost is used for saving user data.
+localstorage is used for saving user data.
